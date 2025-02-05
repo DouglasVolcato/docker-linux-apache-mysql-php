@@ -1,4 +1,4 @@
-# linux-apache-mysql-php-example
+# docker-linux-apache-mysql-php
 
 ## Commands:
 
